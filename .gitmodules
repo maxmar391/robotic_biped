@@ -1,0 +1,3 @@
+[submodule "ServoEasing"]
+	path = ServoEasing
+	url = https://github.com/ArminJo/ServoEasing.git
